@@ -41,8 +41,7 @@ Accidental, Intentional, Climatological, Geophysical, Hydrological, Meteorologic
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/disaster-tweet-classification.git
-cd disaster-tweet-classification
+git clone https://github.com/mmiah-pvmu/Disaster-Management.git
 
 # Create virtual environment
 python -m venv env
