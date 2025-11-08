@@ -50,6 +50,8 @@ source env/bin/activate  # or use env\Scripts\activate on Windows
 # Install dependencies
 pip install -r requirements.txt
 
+```
+
 ## 👥 Contributors
 
 - **Mohammad Robel Miah**   
@@ -57,10 +59,10 @@ pip install -r requirements.txt
 - **Dr. Ahmed Abdelmoamen Ahmed**   
 - **Dr. Louis Ngamassi** 
 - **Dr. Thiagarajan Ramakrishnan**
+
+---
 ## 🪪 License
 
-Distributed under the MIT License.  
-See [LICENSE](LICENSE) file for more information.
 
 © 2025 Mohammad Robel Miah, Lija Akter, Ahmed Abdelmoamen Ahmed, Louis Ngamassi, and Thiagarajan Ramakrishnan.
 
